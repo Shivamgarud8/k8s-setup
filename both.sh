@@ -63,4 +63,3 @@ sudo apt-get update -y
 sudo apt-get install -y kubelet kubeadm kubectl cri-tools
 sudo apt-mark hold kubelet kubeadm kubectl
 echo "==== COMMON: Completed successfully ===="
- 
